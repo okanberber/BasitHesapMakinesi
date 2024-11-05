@@ -1,0 +1,10 @@
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\BasitHesapMakinesi.exe.config
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\BasitHesapMakinesi.exe
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\bin\Debug\BasitHesapMakinesi.pdb
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.csproj.AssemblyReference.cache
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.Form1.resources
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.Properties.Resources.resources
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.csproj.GenerateResource.cache
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.csproj.CoreCompileInputs.cache
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.exe
+D:\repos\BasitHesapMakinesi\BasitHesapMakinesi\BasitHesapMakinesi\obj\Debug\BasitHesapMakinesi.pdb
